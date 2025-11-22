@@ -58,6 +58,7 @@ def home():
           <p><code>/healthz</code> — health check</p>
           <p><code>/score</code> — POST scores from the game</p>
           <p><code>/scores</code> — view scores</p>
+          <p><code>/scores/ui</code> — view scores in a pretty format</p>
         </div>
       </body>
     </html>
